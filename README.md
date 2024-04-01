@@ -1,1 +1,1 @@
-Text 1
+![example workflow](https://github.com/github/docs/actions/workflows/hello.yml/badge.svg)
